@@ -3,7 +3,6 @@
 <h1 align="center">Hi 👋, I'm Amit Rathore</h1>
 <h3 align="center">A passionate Data Scientist trienee</h3>
 
-[![AMIT110409 GitHub Banner](https://raw.githubusercontent.com/AMIT110409/Flight price prediction model /main/banner.png)](https://www.github.com/AMIT110409)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amit110409&label=Profile%20views&color=0e75b6&style=flat" alt="amit110409" /> </p>
