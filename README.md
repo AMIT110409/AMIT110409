@@ -3,7 +3,6 @@
 <h1 align="center">Hi 👋, I'm Amit Rathore</h1>
 <h3 align="center">A passionate Data Scientist trainee</h3>
 
-[![Microsoft Azure AI Fundamentals Certified](https://www.credly.com/badges/0996f289-2f81-4541-85da-92b464af620f/public_url)]
 
 
 
